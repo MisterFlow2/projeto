@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Projeto Flashcards</title>
+  
+  <!-- Fonte Bai Jamjuree do Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400;600&display=swap" rel="stylesheet" />
+
+  <!-- Link para o CSS -->
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Flashcards de Estudos</h1>
+    <div class="flashcard">
+      <p>Pergunta: Qual é a capital da França?</p>
+      <p><strong>Resposta: Paris</strong></p>
+    </div>
+    <div class="flashcard">
+      <p>Pergunta: Qual é o maior planeta do sistema solar?</p>
+      <p><strong>Resposta: Júpiter</strong></p>
+    </div>
+  </div>
+</body>
+</html>
